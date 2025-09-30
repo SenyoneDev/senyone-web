@@ -1,0 +1,29 @@
+.confidentiality {
+  @apply py-8 px-4 md:py-24 md:mx-32;
+}
+
+.confidentiality h1 {
+  @apply font-bold text-2xl text-center;
+  margin-bottom: 2rem;
+}
+
+.confidentiality p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  font-family: Montserrat;
+}
+
+.confidentiality h2 {
+  text-align: left;
+  margin: 1rem auto;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: left;
+  color: black;
+  line-height: 2.8rem;
+}
+
+.confidentiality ul {
+  list-style: disc;
+  margin-left: 2rem;
+}

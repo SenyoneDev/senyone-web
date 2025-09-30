@@ -1,0 +1,48 @@
+.blogContent {
+  @apply mx-6;
+}
+
+.blogContent p {
+  font-size: larger;
+  margin-bottom: 2rem;
+}
+
+.blogContent blockquote {
+  padding: 30px 20px;
+  padding-bottom: 15px;
+  margin-bottom: 2rem;
+  font-style: italic;
+  border-radius: 10px;
+  border: 1px solid rgb(100, 183, 255);
+  background-color: aliceblue;
+}
+
+.blogContent h2 {
+  margin: 1.2rem auto;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: left;
+  color: black;
+  line-height: 2.8rem;
+}
+
+.blogContent h3 {
+  margin: 1.2rem auto;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.blogContent h4 {
+  margin: 1.2rem auto;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.blogContent ul {
+  list-style: disc;
+}
+
+.blogContent a {
+  text-decoration: underline;
+  font-weight: 500;
+}
